@@ -1,3 +1,2 @@
 # logros
-Platinar GITHUB
-dasdas
+Platinar GITHUB es nuestra meta
